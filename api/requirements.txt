@@ -1,0 +1,11 @@
+arrow
+fastapi
+gunicorn
+loguru
+notifiers
+pydantic
+pyotp
+python-dotenv
+redis==4.5.1
+uvicorn
+web3==5.31.3
